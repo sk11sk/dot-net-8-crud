@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\migrations\\20251027110251_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:migrations\\20251027110251_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\migrations\\20251027110251_intial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:migrations\\20251027110251_intial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|c:\\users\\shaurabhsingh\\source\\repos\\studentmanagementsystem\\studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEEEFE9C-C4C1-4DA7-9E2B-19FC5675F197}|studentManagementSystem.csproj|solutionrelative:studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Models\\AddStudentDto.cs",
+              "RelativeDocumentMoniker": "Models\\AddStudentDto.cs",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Models\\AddStudentDto.cs",
+              "RelativeToolTip": "Models\\AddStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:51:06.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwEcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:26:18.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251027110251_intial migration.cs",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Migrations\\20251027110251_intial migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251027110251_intial migration.cs",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Migrations\\20251027110251_intial migration.cs",
+              "RelativeToolTip": "Migrations\\20251027110251_intial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:02:51.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Data\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Data\\StudentDbContext.cs",
+              "RelativeToolTip": "Data\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:04:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:57:14.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:18:11.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:24:16.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T10:27:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251027110251_intial migration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Migrations\\20251027110251_intial migration.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251027110251_intial migration.Designer.cs",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\Migrations\\20251027110251_intial migration.Designer.cs",
+              "RelativeToolTip": "Migrations\\20251027110251_intial migration.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:03:51.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "studentManagementSystem",
+              "DocumentMoniker": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\studentManagementSystem.csproj",
+              "RelativeDocumentMoniker": "studentManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\ShaurabhSingh\\source\\repos\\studentManagementSystem\\studentManagementSystem.csproj",
+              "RelativeToolTip": "studentManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T09:47:47.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
