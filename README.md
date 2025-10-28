@@ -1,8 +1,11 @@
 one project has one solution and one .sln file 
 
 springbootapplication main class  =  program.cs 
+||
 application.properties  =  aaplication.json
+||
 jpa repository  :  dbcontext
+||
 
 
 
